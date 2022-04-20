@@ -163,4 +163,7 @@ definitions:
 - as a dependency manager use maven
 - to write the application use Spring
 
+It's up to you how "deep" you go when implementing the task.
 As a result send the repository address to us, e.g. on github
+
+Good luck
